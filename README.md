@@ -1,2 +1,1 @@
 # aletheia
-Bot using heroku
